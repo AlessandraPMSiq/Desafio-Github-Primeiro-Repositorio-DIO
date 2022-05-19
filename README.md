@@ -1,2 +1,2 @@
-# Desafio-Github-Primeiro-Repositorio-DIO
+# Desafio-Github-Primeiro-Repositorio-DIO/TQI
 Desafio de Projeto sobre Git/Github
